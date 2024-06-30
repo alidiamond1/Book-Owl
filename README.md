@@ -29,7 +29,7 @@ This web application converts PDF documents into audio files, making content mor
    ```
 4. Run the application:
    ```
-   python run.py
+   python app.py
    ```
 
 5. Open your web browser and go to `http://localhost:5000`
