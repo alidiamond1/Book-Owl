@@ -54,5 +54,3 @@ This project is licensed under the MIT License
 
 
 ## Screenshots
-![home_screen](https://github.com/alidiamond1/Book-Owl/assets/107695618/133f3696-a046-4fcc-9ca5-abf1b70a8a79)
-![conversion_progress](https://github.com/alidiamond1/Book-Owl/assets/107695618/93475ecd-d0f5-4221-8b40-c03573e1b3b5)
